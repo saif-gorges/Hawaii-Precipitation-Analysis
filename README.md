@@ -28,7 +28,9 @@ All of the following analysis are completed using SQLAlchemy ORM queries, Pandas
 - The DataFrame values were sorted by date.
 
 - The results were plotted using the DataFrame plot method. The created plot is the following:
-<br>![image](https://github.com/saif-gorges/python-APIs-challenge/blob/main/latitude_vs_temp.png)
+<br>![image](https://user-images.githubusercontent.com/69221324/114065924-2b471980-9869-11eb-8cf8-0bd5cea90770.png)
+
+
 
 ## <a name="station">Station Analysis</a>
 - A query was designed to calculate the total number of stations and to find the most active stations.
@@ -38,6 +40,7 @@ All of the following analysis are completed using SQLAlchemy ORM queries, Pandas
 - A query was to retrieve the last 12 months of temperature observation data (TOBS), and the data were filtered by the station with the highest number of observations.
 
   - The results were plotted as a histogram with bins=12. The created plot is the following:
-  
-<br>![image](https://github.com/saif-gorges/python-APIs-challenge/blob/main/latitude_vs_temp.png)
+<br>![image](https://user-images.githubusercontent.com/69221324/114065830-15395900-9869-11eb-960a-2241d772814a.png)
+
+
 
