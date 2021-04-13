@@ -1,13 +1,9 @@
-# SQLAlchemy-Challenge - Surfs Up!
+# SQLAlchemy-Challenge - Precipitation Analysis
 
 ## Table of Contents
   * [Introduction](#introduction)
-  * [Observations](#observations)
-  * [Data Visualization](#data-visualization)
-    * [Temperature (F) vs. Latitude](#temp)
-    * [Humidity (%) vs. Latitude](#hum)
-    * [Cloudiness (%) vs. Latitude](#clo)
-    * [Wind Speed (mph) vs. Latitude](#win)
+  * [Precipitation Analysis](#precipitation)
+  * [Station Analysis](#station)
     
 
 # <a name="introduction">Introduction</a>
